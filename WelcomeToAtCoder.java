@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * 2024年3月15日
+ *
+ * @author テヘラニファルド　スィナ<br>
+ * 問題文参照：<a href="https://atcoder.jp/">AtCode</a><br>
+ * 整数 a,b,cと、文字列 s が与えらた場合に<br>
+ * a+b+c の計算結果と、文字列 s を並べて表示するプログラム。
+ */
 public class WelcomeToAtCoder {
     public static void main(String[] args) {
         //標準入力
